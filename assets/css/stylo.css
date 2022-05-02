@@ -12,10 +12,9 @@ h4{
 
 }
 body{
+    background-image:url(calculadora.jpg);
     color: rgb(15, 11, 11);
-    background-color: darkslategrey;
-    background-image: url("calculadora.jpg");
-    font-size: 25px;
+    font-size: larger;
 }
 
 

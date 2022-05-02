@@ -4,7 +4,7 @@
 //del resultado de multiplicar
 let num = []
 for (i = 1; i<6; i++) {
-    num1 = prompt("Ingresar " + i + "ª numero:");
+    num1 = prompt("Ingresar " + i + "º numero:");
     num[i] = (Number = num1)
 }
 for (i = 1; i<6; i++) {
